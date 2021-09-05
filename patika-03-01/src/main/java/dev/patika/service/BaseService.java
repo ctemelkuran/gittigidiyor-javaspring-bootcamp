@@ -1,6 +1,6 @@
 package dev.patika.service;
 
-import dev.patika.patika0202.model.Employee;
+import dev.patika.entity.Employee;
 
 import java.util.List;
 
